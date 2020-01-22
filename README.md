@@ -1,8 +1,7 @@
 Race to 32768
 =============
 
-Author: **Afaan Bilal ([@AfaanBilal](https://github.com/AfaanBilal))**   
-Author URL: **[Google+](https://google.com/+AfaanBilal)**
+Author: **[Afaan Bilal](https://afaan.me)**  
 
 ## Introduction
 **Race to 32768** is a simple program in C++ to play the Game Theory based *Race to 32768* game in a console window.
